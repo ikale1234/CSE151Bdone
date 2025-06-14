@@ -1,0 +1,4 @@
+type: conv_lstm
+
+
+kernel_size: 3
